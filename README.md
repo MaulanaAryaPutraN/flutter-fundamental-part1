@@ -64,3 +64,20 @@ Lakukan push dengan klik bagian menu titik tiga > Push
 
 ![alt text](image-11.png)
 
+Langkah 7:
+Di pojok kanan bawah akan tampil seperti gambar berikut. Klik "Add Remote"
+
+![alt text](image-12.png)
+
+Langkah 8:
+Salin tautan repository Anda dari browser ke bagian ini, lalu klik Add remote
+
+![alt text](image-13.png)
+
+Setelah berhasil, tulis remote name dengan "origin"
+
+![alt text](image-14.png)
+
+Langkah 9:
+Lakukan hal yang sama pada file README.md mulai dari Langkah 4. Setelah berhasil melakukan push, masukkan username GitHub Anda dan password berupa token yang telah dibuat (pengganti password konvensional ketika Anda login di browser GitHub). Reload halaman repository GitHub Anda, maka akan tampil hasil push kedua file tersebut seperti gambar berikut.
+
